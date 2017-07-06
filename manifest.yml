@@ -3,6 +3,6 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: ibm-100-demo
-  host: ibm-100-demo
+  name: rebelo-ibm-100-demo
+  host: rebelo-ibm-100-demo
   disk_quota: 1024M
